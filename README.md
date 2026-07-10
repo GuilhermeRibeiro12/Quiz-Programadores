@@ -1,3 +1,4 @@
+
 # 💻 Quiz Programadores
 
 Um quiz interativo desenvolvido para testar conhecimentos em programação de forma simples, dinâmica e divertida.
@@ -68,6 +69,7 @@ Este projeto foi criado para colocar em prática conceitos como:
 
 ## 📸 Preview
 
+<img width="1438" height="930" alt="preview png" src="https://github.com/user-attachments/assets/144d76b0-b527-43ba-ba86-6b0894bae7ca" />
 ![Preview do Projeto](./assets/preview.png)
 
 ## 📈 Melhorias Futuras
