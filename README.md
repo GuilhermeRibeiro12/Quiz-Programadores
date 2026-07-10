@@ -68,10 +68,6 @@ Este projeto foi criado para colocar em prática conceitos como:
 
 ## 📸 Preview
 
-> Adicione aqui um print ou GIF do projeto.
-
-Exemplo:
-
 ```md
 ![Preview](./assets/preview.png)
 ```
