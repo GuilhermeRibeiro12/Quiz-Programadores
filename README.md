@@ -68,7 +68,7 @@ Este projeto foi criado para colocar em prática conceitos como:
 
 ## 📸 Preview
 
-(./assets/preview.png)
+![Preview do Projeto](./assets/preview.png)
 
 ## 📈 Melhorias Futuras
 
